@@ -1,0 +1,18 @@
+import random 
+
+camputer_number=random.randint(0,20)
+
+user_number = -1
+
+while camputer_number != user_number;
+
+    user_number = int(input())
+
+    if computer_number = user_number;
+        print('tnx')
+
+    elif computer_number > user_number;
+        print('go down')
+
+    elifcomputer_number <  user_number;
+        print('go up')
